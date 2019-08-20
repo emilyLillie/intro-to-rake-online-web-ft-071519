@@ -2,3 +2,8 @@
 # task :hello do
 #   puts "hello from Rake!"
 # end
+
+task :hello do
+  puts "hello from Rake!"
+end 
+
